@@ -7,8 +7,8 @@ This is a movie app made using Flutter that allows users to view currently playi
 * View movie details such as ratings, release date, and synopsis
 * Search for movies by title
 ## Installation
-* Clone the repository: git clone https://github.com/your-username/your-project.git
-* Navigate to the project directory: cd your-project
+* Clone the repository: git clone https://github.com/juanchycc/Flutter_Movies
+* Navigate to the project directory: cd proyect_folder
 * Install dependencies: flutter pub get
 * Run the app: flutter run
 ## API Key
